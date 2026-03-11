@@ -1,7 +1,7 @@
 [versions]
 android-desugar = "2.1.5"
 android-gradle = "8.9.1"
-androidx-activity-compose = "1.10.1"
+androidx-activity-compose = "1.13.0"
 compose-multiplatform = "1.7.3"
 kotlin = "2.1.20"
 koin = "4.0.4"
